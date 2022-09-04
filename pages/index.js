@@ -4,8 +4,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Web dev news</title>
-        <meta name="keywords" content="web development, programming"></meta>
+        <title>Next crash course</title>
       </Head>
       <h1>Welcome to Next</h1>
     </div>
